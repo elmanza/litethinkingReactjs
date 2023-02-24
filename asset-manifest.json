@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/litethinkingReactjs/static/css/main.1ff1204b.css",
+    "main.js": "/litethinkingReactjs/static/js/main.83148419.js",
+    "static/js/787.6240a310.chunk.js": "/litethinkingReactjs/static/js/787.6240a310.chunk.js",
+    "static/media/logo.svg": "/litethinkingReactjs/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/litethinkingReactjs/index.html",
+    "main.1ff1204b.css.map": "/litethinkingReactjs/static/css/main.1ff1204b.css.map",
+    "main.83148419.js.map": "/litethinkingReactjs/static/js/main.83148419.js.map",
+    "787.6240a310.chunk.js.map": "/litethinkingReactjs/static/js/787.6240a310.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ff1204b.css",
+    "static/js/main.83148419.js"
+  ]
+}
